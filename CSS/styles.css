@@ -5,12 +5,6 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
 }
-.certificate-html{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;  
-}
 hr {
     border: dotted #bad3bd 6px;
     width: 4%;
@@ -57,6 +51,10 @@ hr {
 img {
     background-color: #F8F4EA;
     border-radius: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .skill-row {
