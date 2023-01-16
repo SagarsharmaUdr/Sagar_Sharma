@@ -55,6 +55,7 @@ br {
 .certi-self {
     padding-top: 8%;
     padding-bottom: 2%;
+    border-style: groove;
     display: block;
     margin-left: auto;
     margin-right: auto;
